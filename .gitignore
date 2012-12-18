@@ -12,3 +12,4 @@ appengine*.jar
 appengine-web.xml
 dist/
 */WEB-INF/classes/
+gwt-unitCache/
